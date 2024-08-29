@@ -1,1 +1,2 @@
-Puzzle slider uses various images cut into 3x3 pieces. The smaller images are randomized and you have to try and solve the puzzle!
+Puzzle slider uses various images cut into 3x3 pieces. The smaller images are randomized and you have to try and solve the puzzle! The doc.html contains the general information such as the sources and links to other pages of the game.
+The proposal.html was my planning for the general overview of the project, the menu.html is the main menu of the game, and the rest of the files were the main files for the functionality of the game.
